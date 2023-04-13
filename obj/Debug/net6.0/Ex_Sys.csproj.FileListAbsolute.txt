@@ -1,0 +1,15 @@
+F:\iTi\C#\Ex_Sys\bin\Debug\net6.0\Ex_Sys.exe
+F:\iTi\C#\Ex_Sys\bin\Debug\net6.0\Ex_Sys.deps.json
+F:\iTi\C#\Ex_Sys\bin\Debug\net6.0\Ex_Sys.runtimeconfig.json
+F:\iTi\C#\Ex_Sys\bin\Debug\net6.0\Ex_Sys.dll
+F:\iTi\C#\Ex_Sys\bin\Debug\net6.0\Ex_Sys.pdb
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\Ex_Sys.csproj.AssemblyReference.cache
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\Ex_Sys.GeneratedMSBuildEditorConfig.editorconfig
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\Ex_Sys.AssemblyInfoInputs.cache
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\Ex_Sys.AssemblyInfo.cs
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\Ex_Sys.csproj.CoreCompileInputs.cache
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\Ex_Sys.dll
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\refint\Ex_Sys.dll
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\Ex_Sys.pdb
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\Ex_Sys.genruntimeconfig.cache
+F:\iTi\C#\Ex_Sys\obj\Debug\net6.0\ref\Ex_Sys.dll
